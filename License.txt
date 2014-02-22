@@ -1,0 +1,8 @@
+FFmpeg.CS License Agreement
+================================
+
+The library is provided under WTFPL Version 2 license,
+whice exact definition may be found on the next webpage:
+http://www.wtfpl.net/txt/copying/
+
+Copyright © st-kn, 2014
